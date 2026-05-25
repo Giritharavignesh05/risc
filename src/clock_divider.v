@@ -1,3 +1,4 @@
+`default_nettype none
 module clock_divider (
     input  wire clk,
     input  wire rst_n,
